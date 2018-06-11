@@ -89,3 +89,97 @@ span{
   color: blue;
   text-decoration: underline;
 }
+
+
+@media only screen and (max-width :500px){
+  .liste1{
+  text-align: center;
+  width: 80%;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  }
+
+  .liste2{
+  text-align: center;
+  width: 80%;
+  margin-left: 34px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  }
+
+  .liste3{
+  text-align: center;
+  width: 80%;
+  margin-left: 34px;
+  margin-bottom: 15px;
+  margin-top: 15px;
+  }
+
+  .liste4{
+  text-align: center;
+  width: 80%;
+  margin-left: 34px;
+  }
+
+  .liste5{
+  text-align: center;
+  width: 80%;
+  margin-left: 34px;
+  margin-top: 15px;
+  }
+
+  .liste6{
+  text-align: center;
+  width: 80%;
+  margin-left: 34px;
+  margin-top: 15px;
+  }
+}
+
+@media only screen and (min-width :500px) and (max-width :700px){
+
+.liste1{
+  text-align: center;
+  width: 40%;
+  margin-top: 1px;
+  margin-bottom: 15px;
+  margin-right: 15px;
+  }
+
+  .liste2{
+  text-align: center;
+  width: 40%;
+  margin-left: 34px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  }
+
+  .liste3{
+  text-align: center;
+  width: 40%;
+  margin-left: 50px;
+  margin-top: 20px;
+  }
+
+  .liste4{
+  text-align: center;
+  width: 40%;
+  margin-left: 270px;
+  margin-top: -230px;
+  }
+
+  .liste5{
+  text-align: center;
+  width: 40%;
+  margin-left: 50px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  }
+
+  .liste6{
+  text-align: center;
+  width: 40%;
+  margin-left: 270px;
+  margin-top: -225px;
+  }
+}
